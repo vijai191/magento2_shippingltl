@@ -5,7 +5,7 @@
             <Shop_LTLshipping>
                 <active>1</active>
                 <sallowspecific>0</sallowspecific>
-                <model>Shopcoir\LTLshipping\Model\Carrier\Shipping</model>
+                <model>Shop\LTLshipping\Model\Carrier\Shipping</model>
                 <name>LTL Shipping Method</name>
                 <price>10.00</price>
                 <title>LTL</title>
