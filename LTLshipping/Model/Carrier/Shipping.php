@@ -10,7 +10,7 @@ class Shipping extends \Magento\Shipping\Model\Carrier\AbstractCarrier implement
     /**
      * @var string
      */
-    protected $_code = 'Shopcoir_LTLshipping';
+    protected $_code = 'Shop_LTLshipping';
 
     /**
      * @var \Magento\Shipping\Model\Rate\ResultFactory
