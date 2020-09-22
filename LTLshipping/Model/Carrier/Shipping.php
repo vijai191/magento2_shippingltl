@@ -1,5 +1,5 @@
 <?php
-namespace Shopcoir\LTLshipping\Model\Carrier;
+namespace Shop\LTLshipping\Model\Carrier;
 
 use Magento\Quote\Model\Quote\Address\RateRequest;
 use Magento\Shipping\Model\Rate\Result;

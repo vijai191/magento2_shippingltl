@@ -1,6 +1,6 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Shopcoir_ShippingLTL',
+    'Shop_ShippingLTL',
     __DIR__
 );

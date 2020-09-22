@@ -1,5 +1,5 @@
 <?php
-namespace Shopcoir\ShippingLTL\Model\Carrier;
+namespace Shop\ShippingLTL\Model\Carrier;
 
 use Magento\Quote\Model\Quote\Address\RateRequest;
 use Magento\Shipping\Model\Rate\Result;
@@ -10,7 +10,7 @@ class Shipping extends \Magento\Shipping\Model\Carrier\AbstractCarrier implement
     /**
      * @var string
      */
-    protected $_code = 'Shopcoir_ShippingLTL';
+    protected $_code = 'Shop_ShippingLTL';
 
     /**
      * @var \Magento\Shipping\Model\Rate\ResultFactory
